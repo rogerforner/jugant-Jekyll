@@ -1,0 +1,13 @@
+{
+  "name": "tinkeringJekyll",
+  "homepage": "https://github.com/rogerforner/tinkeringJekyll",
+  "description": "Aprendiendo y jugando con Jekyll",
+  "main": "",
+  "authors": [
+    "Roger Forner Fabre"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}
